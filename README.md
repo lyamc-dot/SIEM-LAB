@@ -48,7 +48,7 @@ For OPT4, we want to give it a different port to view, but overall the same requ
 Start by setting up a general Ubuntu Client, open the command line and get the ip from 'ifconfig', take note of the ip. 192.168.117.134
 <img width="803" height="71" alt="image" src="https://github.com/user-attachments/assets/d8125d5b-e7e1-4317-b9af-d6383d23a888" />
 
-Install a Security Onion iso, set the storage to 200gb, make sure to give it enough processors, memory and vmnet4, and vmnet5 to be able to connect to the firewall.
+Install a Security Onion iso under CentOS 7, set the storage to 200gb and store it to a single file, make sure to give it enough processors, memory and vmnet4, and vmnet5 to be able to connect to the firewall.
 
 <img width="749" height="480" alt="image" src="https://github.com/user-attachments/assets/ffc691c6-be91-4735-8d35-3ec60b68c4b9" />
 
@@ -63,7 +63,8 @@ This is where we can put the IP from Ubuntu to use.
 <img width="809" height="353" alt="image" src="https://github.com/user-attachments/assets/17cbdf0e-f5fb-4277-8341-4225e046c55c" />
 
 Find a safe place to store the options list presented as it is important to keeping your SecurityOnion running. 
-<img width="660" height="436" alt="image" src="https://github.com/user-attachments/assets/13136d2f-dd94-4a1b-b38b-bf62445739ff" />
+<img width="944" height="644" alt="image" src="https://github.com/user-attachments/assets/2f55f8ae-a57f-4449-8513-d3a88a0c17da" />
+
 
 
 
