@@ -73,7 +73,7 @@ In the settings we don't need to do much, just set the memory to 4gb and the net
 
 <img width="304" height="278" alt="image" src="https://github.com/user-attachments/assets/f4f6b305-62c2-493b-86a3-cd1f8545e9b8" />
 
-After we set kali linux up for use, all we have left to do is to boot it up and change the password.
+After we set kali linux up for use, all we have left to do is to boot it up and change the password. via the terminal and the command passwd, standard user and password is kali.
 
 
 
