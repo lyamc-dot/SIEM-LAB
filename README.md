@@ -62,8 +62,18 @@ Under ens35, set automatic, accept the defaults, enter an email and select IP.
 This is where we can put the IP from Ubuntu to use.
 <img width="809" height="353" alt="image" src="https://github.com/user-attachments/assets/17cbdf0e-f5fb-4277-8341-4225e046c55c" />
 
-Find a safe place to store the options list presented as it is important to keeping your SecurityOnion running. 
+Find a safe place to store the options list presented as it is important to keeping your SecurityOnion accessable
+After the download finishes, SecurityOnion will be complete.
 <img width="944" height="644" alt="image" src="https://github.com/user-attachments/assets/2f55f8ae-a57f-4449-8513-d3a88a0c17da" />
+
+## KALI Linux
+[Kali Linux](https://www.kali.org/get-kali/#kali-installer-images)
+After Installing Kali Linux, we can go to the file and find "kali-linux-2026.1-vmware-amd64" as a VMware virtual machine at the bottom of the folder provided.
+In the settings we don't need to do much, just set the memory to 4gb and the network adapter to VMnet2. 
+
+<img width="304" height="278" alt="image" src="https://github.com/user-attachments/assets/f4f6b305-62c2-493b-86a3-cd1f8545e9b8" />
+
+After we set kali linux up for use, all we have left to do is to boot it up and change the password.
 
 
 
